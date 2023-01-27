@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @henrykent
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, C++ & JS
+- 🌱 I’m currently learning Python, Java & JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @henry#0005
 
